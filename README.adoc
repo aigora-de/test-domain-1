@@ -1,0 +1,40 @@
+= Domain Ontology
+
+=== Repository Structure
+```
+├── .github/
+│ ├── workflows/
+│ │ ├── bug-issue.yml
+│ │ ├── documentation-issue.yml
+│ │ ├── feature-issue.yml
+│ │ ├── ontology-validation.yml
+│ │ ├── doc-build.yml
+│ │ ├── qa-review.yml
+│ │ └── release-candidate.yml
+│ ├── ISSUE_TEMPLATE/
+│ │ ├── bug-issue.yml
+│ │ ├── documentation-issue.yml
+│ │ └── feature-issue.yml
+├── docs/
+│ ├── README.adoc
+│ └── CONTRIBUTING.adoc
+├── src/
+│ └── ontology/
+│ │ ├── data.ttl
+│ │ ├── ontology.trig
+│ │ └── ontology.ttl
+├── tests/
+│ └── integration/
+│ └── unit/
+├── .gitignore
+└── LICENCE
+└── README.adoc
+```
+
+=== Repository Permissions
+
+TBD
+
+=== Repository Workflows
+
+TBD
