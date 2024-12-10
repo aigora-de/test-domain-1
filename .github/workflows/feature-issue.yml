@@ -54,4 +54,4 @@ jobs:
             });
 
 env:
-  PROJECT_ID: ${{ secrets.DOMAIN_ONTOLOGY_PROJECT_ID }}
+  PROJECT_ID: ${{ secrets.PROJECT_ID }}
